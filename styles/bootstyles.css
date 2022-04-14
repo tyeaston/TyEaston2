@@ -22,3 +22,17 @@ ul {
     background-color: #111;
   }
   
+body {
+  background-color: rgb(180, 175, 175);
+}
+
+.homepics{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin: 0 1rem;
+  justify-content: space-evenly;}
+
+  .center{
+    text-align: center;
+  }
